@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3966952, 2020-10-30T04:56:33-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: QuincyCF-ExtraBold by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/quincy-cf/extra-bold/
+ * Copyright: Copyright © 2020 by Connary Fagen. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url('//hello.myfonts.net/count/3c87e8');
+
+@font-face {
+  font-family: 'QuincyCF-ExtraBold';
+  src: url('QuincyCF-ExtraBold/font.woff2') format('woff2'),
+    url('QuincyCF-ExtraBold/font.woff') format('woff');
+}
